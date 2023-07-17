@@ -10,10 +10,11 @@
     background-color: aqua;
     width: 200px;
 }
-.main{
+.container{
     margin-left: 50%;
     margin-top: 10%;
     margin-right: 50%;
+    /* margin-bottom: 3%; */
     
 }
 #in1{
